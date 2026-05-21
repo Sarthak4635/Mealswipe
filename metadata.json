@@ -1,0 +1,6 @@
+{
+  "name": "MealSwipe",
+  "description": "Cinematic dining discovery and personalized flavor matchmaker app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
